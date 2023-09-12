@@ -51,6 +51,7 @@ jobs:
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ secrets.DOCKER_HUB_USER }}/${{ env.IMAGE_NAME }}:${{ env.IMAGE_TAG }}
 
+
       # 连接到远程服务器
       - name: Connect to server
         uses: webfactory/ssh-agent@v0.4.1
