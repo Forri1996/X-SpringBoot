@@ -6,12 +6,9 @@
 
 [更新日志](https://github.com/yzcheng90/X-SpringBoot/tree/master/doc/updateLog.md) | [项目地址](https://github.com/yzcheng90)  | [SpringCloud版本](https://github.com/yzcheng90/ms) |[前台项目地址](https://github.com/yzcheng90/x-springboot-ui)
 
-**ChatGPT体验地址，进群免费使用，扫码体验**
-
-<img src="https://cdn.andyeason.cn/ai/0.png" width="30%" height="50%"  alt="图片名称" align=center>
-
 
 **项目说明** 
+- 基于X-SpringBoot，引入DevOps能力。基于Github Action实现提交代码后自动部署到虚拟机容器
 - X-SpringBoot 是一个轻量级的Java快速开发平台，基于各大开源项目组合而来，用于快速构建中小型API、RESTful API项目，该项目已经有过多个真实项目的实践，稳定、简单、快速，使我们摆脱那些重复劳动。
 - 本项目已大量重构,精简了大量代码减少第三方依赖，最干净的脚手架。
 - 引入了lombok 大量简化了代码
